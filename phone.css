@@ -1,0 +1,264 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:100%;
+    height:100vh;
+    background-color: aliceblue;
+    display: flex;
+}
+.one{
+    width:25%;
+    height:100%;
+    background-color:red;
+    background: linear-gradient(to right, black red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    width:25%;
+    height:100%;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.three{
+    width:25%;
+    height:100%;
+    background-color: blue;
+}
+.four{
+    width:25%;
+    height:100%;
+    background-color:pink;
+}
+.card{
+    width:80%;
+    height:90%;
+    background-color: black;
+    background:linear-gradient(to right,black,red) ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.ball{
+    width: 9%;
+    height: 4%;
+    border-radius: 50%;
+    background-color: white;
+    margin:5%;
+}
+.a{
+    width:90%;
+    height:20%;
+    background-color: green;
+    background:linear-gradient(to right, green, yellow) ;
+}
+.b{
+    width:90%;
+    height:20%;
+    background-color: green;
+    background:linear-gradient(to right, green, yellow) ;
+}
+.c{
+    width:90%;
+    height:20%;
+    background-color: green;
+    background:linear-gradient(to right, green, yellow) ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.d{
+    width:90%;
+    height:20%;
+    background-color: green;
+    background:linear-gradient(to right, green, yellow) ;
+}
+.bumbug{
+    width:9%;
+    height:19%;
+    background-color: aqua;
+    border-radius: 50%;
+    margin:5%;
+}
+.neg{
+    width:100%;
+    height:40%;
+    background-color:blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.hoir{
+    width:100%;
+    height:10%;
+    background-color:blue;
+    display: flex;
+    justify-content: space-around;
+}
+.gurav{
+    width:100%;
+    height:25%;
+    background-color:blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.m{
+    width:80%;
+    height:80%;
+    background-color: darkblue;
+    background: linear-gradient(to right,darkblue,blue);
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.n{
+    width:30%;
+    height:60%;
+    background-color: darkblue;
+}
+.k{
+    width:30%;
+    height:60%;
+    background-color: darkblue;
+}
+.h{
+    width:30%;
+    height:60%;
+    background-color: darkblue;
+    background: linear-gradient(to right,darkblue,blue);
+}
+.circle{
+    width:10%;
+    height:12%;
+    border-radius: 50%;
+    background-color: red;
+    margin:5%;
+}
+.q{
+   width:50%;
+   height:70%;
+   background-color:darkblue;
+   margin:5%;
+}
+.w{
+    width:50%;
+    height:70%;
+    background-color:darkblue;
+    margin:5%;
+    background: linear-gradient(to right,darkblue,blue);
+ }
+ .e{
+    width:50%;
+    height:70%;
+    background-color:darkblue;
+    margin:5%;
+ }
+.r{
+    width:50%;
+    height:70%;
+    background-color:darkblue;
+    margin:5%;
+    background: linear-gradient(to right,darkblue,blue);
+ }
+.duruv{
+    width:100%;
+    height:25%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .idk{
+    width:95%;
+    height:70%;
+    background-color: lightslategray;
+    background: linear-gradient(to right,lightslategray,pink);
+ }
+ .top{
+    width:100%;
+    height:10%;
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .bottom{
+    width: 100%;
+    height: 90%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+ }
+ .right{
+    width:50%;
+    height:100%;
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+ }
+ .left{
+    width:50%;
+    height:100;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+ }
+ .f{
+    width:80%;
+    height:35%;
+    background-color:lightslategray;
+    margin:5%;
+ }
+ .j{
+    width:80%;
+    height:35%;
+    background-color:lightslategray;
+    margin:5%;
+    background: linear-gradient(to right,lightslategray,pink);
+}
+ .g{
+    width:80%;
+    height:40%;
+    background-color: lightslategray;
+    margin:5%;
+ }
+ .l{
+    width:80%;
+    height:40%;
+    background-color: lightslategray;
+    background: linear-gradient(to right,lightslategray,pink);
+    margin:5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .i{
+    width:80%;
+    height:21%;
+    background-color:lightslategray;
+    margin:5%;
+ }
+ .o{
+    width:80%;
+    height:21%;
+    background-color:lightslategray;
+    background: linear-gradient(to right,lightslategray,pink);
+    margin:5%;
+ }
+ .idkball{
+    width:20%;
+    height:12%;
+    background-color: yellow;
+    border-radius: 60%;
+ }
